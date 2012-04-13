@@ -349,6 +349,13 @@ org.eclipse.jdt.apt.genSrcDir=${generated.src}
 org.eclipse.jdt.apt.processorOptions/JsonPullParserClassPostfix=${genclass.postfix}
 org.eclipse.jdt.apt.processorOptions/JsonPullParserDebug=${jsonpullparser.debug}
 org.eclipse.jdt.apt.reconcileEnabled=false
+               ]]>
+              </content>
+            </file>
+            <file>
+              <name>.settings/org.eclipse.jdt.core.prefs</name>
+              <content>
+                <![CDATA[
 org.eclipse.jdt.core.compiler.processAnnotations=enabled
                ]]>
               </content>
